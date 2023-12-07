@@ -1,0 +1,29 @@
+IT22150448 - Kaushalya WMDS
+Group - MLB_11.1_WD
+Project group - G162
+Topic - Online Employee Management System
+
+Use case - Manage employee attendance
+
+Steps to run the application :-
+	1) Enter new attendance details - recordAttendance.jsp
+		(eg: 	attendance id - 1
+			employee id - EID101
+			date - 10/11/2023
+			login time - 7.30 AM
+			logout time - 5.30 PM)
+
+	2) Click "Submit attendance" button
+		
+
+	3) To view details, enter attendance id and submit.
+
+	4) To edit information, click "edit info"
+
+	5) To delete information, click "delete info"
+
+Database name - company
+
+Table name - attendance
+
+PS: I was suggested to implement a validation part during the viva session and I implemented a validation to check attendance ID when the user wants to retrieve data from the database and view working details.
